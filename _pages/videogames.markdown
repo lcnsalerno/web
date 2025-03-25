@@ -17,6 +17,8 @@ These are the most relevant projects I've worked on:
 - [Full-Time Job](#full-time-job)
 - [Zoe: Interactive Story](#zoe-interactive-story)
 
+---
+
 ## Harry Potter: Hogwarts Mystery
 
 RPG mobile game. Android and iOS.
