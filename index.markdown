@@ -6,15 +6,15 @@
 layout: home
 ---
 
-Writer of film, video games, and fiction. 
+Hi! I'm Luciano, a video game writer and screenwriter. 
 
-Throughout all the shifts in interests and activities I've gone through in my life, writing is the only thing that has remained constant. I have never stopped writing. I probably never will.
+Throughout the various shifts in interests and activities I've experienced in life, writing has been the one constant. I've never stopped writing, and I likely never will.
 
 Writing for film is a lifelong passion of mine, and as such, my academic background is in Screenwriting (UNA, Buenos Aires, and UCLA, Los Angeles).
 
-Years ago I discovered video game writing as a professional path, and being a big video game enthusiast I devoted myself to interactive narrative. I have written professionally for both commercial video games in the mobile scene and independent, experimental projects.
+After discovering video game writing as a professional path, I committed myself to this field. I've written for major, commercially successful companies like Wooga, Crazy Maple Studio, and The Other Guys, as well as collaborated on a range of independent and experimental projects. You can explore all of these in the tabs above.
 
-I live in Berlin, Germany, and I'm currently a Game Writer for Wooga.
+I'm currently based in Los Angeles, California.
 
 <p align="center">
 <img src="/content_assets/profile.jpg" width="300">
