@@ -4,7 +4,7 @@ title: Video Games
 permalink: /videogames/
 ---
 
-I've been working as a video game writer since 2016. Interactive writing has been a huge source of inspiration for me, and I find the game development scene, with its constant strive for innovation, the most exciting place for my craft.
+I've worked as a video games writer since 2016. Interactive writing has been a huge source of inspiration for me, and I find the game development scene, with its constant strive for innovation, the most exciting place for my craft.
 
 These are the most relevant projects I've worked on:
 
