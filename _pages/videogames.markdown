@@ -30,6 +30,8 @@ RPG mobile game. Android and iOS.
 - *Harry Potter: Hogwarts Mystery* is an official Harry Potter game by Jam City, in which players can create their own character and experience life as a Hogwarts student, launched in 2018 and with continued support since.
 - As part of the narrative design team, I am responsible for conceptualizing, pitching, and writing stories in a regular release schedule, working in close collaboration with a talented team of other writers, game designers, and artists.
 
+Play Harry Potter: Hogwarts Mystery now on [Android](https://play.google.com/store/apps/details?id=com.tinyco.potter&pcampaignid=web_share) and [iOS](https://apps.apple.com/us/app/harry-potter-hogwarts-mystery/id1333256716).
+
 ([back](/videogames))
 
 ---
