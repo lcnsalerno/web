@@ -8,6 +8,7 @@ I've been working as a video game writer since 2016. Interactive writing has bee
 
 These are the most relevant projects I've worked on:
 
+- [Harry Potter: Hogwarts Mystery](#harry-potter-hogwarts-mystery)
 - [June's Journey](#junes-journey)
 - [Ghost Detective](#ghost-detective)
 - [Neighbors](#neighbors)
@@ -15,6 +16,23 @@ These are the most relevant projects I've worked on:
 - [Buenos Aires Tokio](#buenos-aires-tokio)
 - [Full-Time Job](#full-time-job)
 - [Zoe: Interactive Story](#zoe-interactive-story)
+
+## Harry Potter: Hogwarts Mystery
+
+RPG mobile game. Android and iOS.
+
+<p align="left">
+<img src="/content_assets/videogames/hogwarts.jpg" width="500">
+</p> 
+
+### About the project
+
+- *Harry Potter: Hogwarts Mystery* is an official Harry Potter game by Jam City, in which players can create their own character and experience life as a Hogwarts student, launched in 2018 and with continued support since.
+- As part of the narrative design team, I am responsible for conceptualizing, pitching, and writing stories in a regular release schedule, working in close collaboration with a talented team of other writers, game designers, and artists.
+
+([back](/videogames))
+
+---
 
 ## June's Journey
 
@@ -28,8 +46,8 @@ Hidden objects narrative-driven mobile game. Android and iOS.
 
 - *June's Journey*, by Wooga, is the #1 top-grossing Hidden Object game in the world. It made headlines in 2023 for surpassing the [$1billion mark in revenue](https://www.pocketgamer.biz/news/82874/junes-journeys-1billion-revenue-makes-german-gaming-history/), the first game from Germany to do so.
 - Launched in 2017, it's still going strong with weekly content releases, for a total of +300 main story chapters released since launch.
-- As one of the six writers in the writing team, I lead writers rooms, write main chapters and side stories, create characters and settings, and plot month-long arcs and year-long volumes, working in the writers room with my team on a daily basis.
-- Writing chapters in *June's Journey* includes briefing artists on new characters, backgrounds, and cutscenes, and brainstorming with design on puzzle scenes.
+- As one of the six writers in the writing team, I led writers rooms, wrote main chapters and side stories, created characters and settings, and plotted month-long arcs and year-long volumes, working in the writers room with my team on a daily basis.
+- Writing chapters in *June's Journey* included briefing artists on new characters, backgrounds, and cutscenes, and brainstorming with Design on puzzle scenes.
 
 Play June's Journey now on [Android](https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/junes-journey-hidden-objects/id1200391796).
 

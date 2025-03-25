@@ -8,13 +8,35 @@ I've worked on several film projects as a screenwriter, some of them produced an
 
 Here are some of the screenplays that I wrote and the most memorable projects I was a part of:
 
+- [Ciudad Oculta](#ciudad-oculta) 
 - [Inland](#inland)
 - [High Press](#high-press)
 - [The Tennis *Racket*](#the-tennis-racket) 
-- [Ciudad Oculta](#ciudad-oculta) 
 - [Moheda](#moheda) 
 - [Eldorado](#eldorado)
 - [Berlín](#berlín)
+
+---
+
+## Ciudad Oculta
+
+Feature. Drama. 2024. Co-written with Francisco Bouzas.
+
+<p align="left">
+<img src="/content_assets/film/ciudad_oculta.jpg" width="500">
+</p>
+
+### Logline
+
+A young *murguero* with a panic disorder is summoned by his recently-deceased friend to come to his aid, which prompts him to find a way to descend into the world of the dead.
+
+### About the project
+
+- *Ciudad Oculta* premiered at [Berlin Critics' Week 2024](https://wochederkritik.de/en_US/city-lights/).
+- Writing this screenplay posed an interesting challenge: starting from the idea of shooting in the slum Ciudad Oculta with non-professional actors who mostly play themselves, in what would be a fiction permanently intertwined with reality, we set out to build a fully genre-based, classic story, weaving a dream with the fabric of reality.
+- Along with Francisco Bouzas, co-writer and director, we drew from the Orpheus myth and *The Wizard of Oz*, bringing classics of Western culture, which pretty much shape our view of the world, into a story deeply rooted in the Buenos Aires slums.
+
+([back](/film))
 
 ---
 
@@ -84,28 +106,6 @@ A tennis player past his prime loses his last sponsor and gets involved in a sha
 - *The Tennis Racket* was also a great opportunity to explore the sports epic sub-genre and experiment with it. 
 
 Visit the [the screenplay's Coverfly page](https://writers.coverfly.com/projects/view/73f311ec-e9d1-4498-b2e4-af1ae992a4e8/The_Tennis_Racket) and request a read.
-
-([back](/film))
-
----
-
-## Ciudad Oculta
-
-Feature. Drama. 2024. Co-written with Francisco Bouzas.
-
-<p align="left">
-<img src="/content_assets/film/ciudad_oculta.jpg" width="500">
-</p>
-
-### Logline
-
-A young *murguero* with a panic disorder is summoned by his recently-deceased friend to come to his aid, which prompts him to find a way to descend into the world of the dead.
-
-### About the project
-
-- *Ciudad Oculta* premiered at [Berlin Critics' Week 2024](https://wochederkritik.de/en_US/city-lights/).
-- Writing this screenplay posed an interesting challenge: starting from the idea of shooting in the slum Ciudad Oculta with non-professional actors who mostly play themselves, in what would be a fiction permanently intertwined with reality, we set out to build a fully genre-based, classic story, weaving a dream with the fabric of reality.
-- Along with Francisco Bouzas, co-writer and director, we drew from the Orpheus myth and *The Wizard of Oz*, bringing classics of Western culture, which pretty much shape our view of the world, into a story deeply rooted in the Buenos Aires slums.
 
 ([back](/film))
 
